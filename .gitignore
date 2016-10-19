@@ -4,6 +4,7 @@
 *.sh
 *~
 .tscache
+/dist
 /local
 /templates
 /typings
